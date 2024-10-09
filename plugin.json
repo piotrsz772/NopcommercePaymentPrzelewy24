@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "Płatność Przelewy24",
+  "SystemName": "Payments.Przelewy24",
+  "Version": "4.70",
+  "SupportedVersions": [ "4.70" ],
+  "Author": "nopCommerce team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Payments.Przelewy24.dll",
+  "Description": "This plugin enables Przelewy24 order payments"
+}
